@@ -9,7 +9,7 @@ All visualizations were done using Tableau Deskto
 
  - [Kaggle](https://www.kaggle.com/datasets/datahackers/state-of-data-2021)
  - [State of data](https://www.stateofdata.com.br/)
- - [Data Visualization - Tableau Public](https://public.tableau.com/app/profile/thais.helena.dias/viz/stateofdatavisu/historiafinal)
+ - [Data Visualization - Tableau Public](https://public.tableau.com/app/profile/thais.helena.dias/viz/Stateofdata2021-visualization/historiafinal?publish=yes)
 
 ## Conclusions
 
